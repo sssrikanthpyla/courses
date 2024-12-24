@@ -122,10 +122,13 @@ x = True
 y = False
 print(type(x)) # Output: <class 'bool'>
 print(type(y)) # Output: <class 'bool'>
+
 # Boolean Values
-# In programming you often need to know if an expression is True or False.
-# You can evaluate any expression in Python, and get one of two answers, True or False.
-# When you compare two values, the expression is evaluated and Python returns the Boolean answer:
+"""
+    In programming you often need to know if an expression is True or False.
+    You can evaluate any expression in Python, and get one of two answers, True or False.
+    When you compare two values, the expression is evaluated and Python returns the Boolean answer:
+"""
 # Example
 print(10 > 9) # Output: True
 print(10 == 9) # Output: False
